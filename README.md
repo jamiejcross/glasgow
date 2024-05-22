@@ -1,1 +1,1 @@
-# glasgow
+# Hosting UofG data maps for us in analysing global challenge related research collaborations and funding streams.
