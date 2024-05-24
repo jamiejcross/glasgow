@@ -1,0 +1,1 @@
+# University of Glasgow REF21 Impact Case Studies (by location of recorded impact)
